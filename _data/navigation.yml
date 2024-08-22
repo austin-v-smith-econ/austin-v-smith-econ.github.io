@@ -10,12 +10,9 @@ main:
     url: /cv/
 
 research:
-  - title: "Economics"
-    url: /research/
-    children:
-      - title: "Working Papers"
+ - title: "Working Papers"
         url: /research/#working-papers
-      - title: "Work in Progress"
+ - title: "Work in Progress"
         url: /research/#work-in-progress
-      - title: "Published Papers"
+ - title: "Published Papers"
         url: /research/#published-papers
