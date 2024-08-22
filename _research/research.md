@@ -10,7 +10,7 @@ permalink: /research/
 
 # Work in Progress
 
-Lead By Example: The Effect of Police Supervisors on Officer Behavior (Job Market Paper)<br>
+Lead By Example: The Effect of Supervisors on Police Behavior (Job Market Paper)<br>
 
 Teams in the Public Sector: Evidence from Police Officers<br>
 
