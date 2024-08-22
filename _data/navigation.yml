@@ -9,8 +9,3 @@ main:
   - title: "CV"
     url: /cv/
 
-research:
-  - title: "Working Papers"
-    url: /working-papers
-  - title: "Work in Progress"
-    url: /work-in-progress
