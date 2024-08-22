@@ -10,9 +10,7 @@ main:
     url: /cv/
 
 research:
- - title: "Working Papers"
-        url: /research/#working-papers
- - title: "Work in Progress"
-        url: /research/#work-in-progress
- - title: "Published Papers"
-        url: /research/#published-papers
+  - title: "Working Papers"
+    url: /working-papers
+  - title: "Work in Progress"
+    url: /work-in-progress
