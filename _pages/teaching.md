@@ -3,13 +3,15 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-### Sole Instructor of Record at University of Arizona
+### Sole Instructor of Record
 
-- Industrial Organization (Summer 2023) [Teaching Evaluation](../assets/pdfs/Summer2023_Econ460_Evaluation.pdf)
+- Economics of Sports (in-person; 2022, 2023) [Syllabus](../assets/pdfs/econ_323_syllabus.pdf)
+- Economic Strategy for Business Decisions (online asynchronous; 2024)
 
 
-### Teaching Assistant at University of Arizona
+### Teaching Assistant
 
-- Intermediate Microeconomics (Fall 2023)
-- PhD Econometrics (Fall 2021, Spring 2022, Fall 2022, Spring 2023)
-- Health Economics (Spring 2021)
+- Economics of Strategy (2023)
+- Econometrics (2022)
+- Public Sector Economics (2021)
+- Basic Economic Issues (2021)
