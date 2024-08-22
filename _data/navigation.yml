@@ -9,3 +9,11 @@ main:
   - title: "CV"
     url: /cv/
 
+research:
+  - title: "Research"
+    url: /research/
+    children:
+      - title: "Working Papers"
+        url: /research/#working-papers
+      - title: "Work in Progress"
+        url: /research/#work-in-progress
