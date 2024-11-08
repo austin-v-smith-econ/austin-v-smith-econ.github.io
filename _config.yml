@@ -23,7 +23,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 #github_username: austin-v-smith-econ
 minimal_mistakes_skin: default
 search: false
-classes: wide
 
 # Build settings
 markdown: kramdown
@@ -75,18 +74,17 @@ defaults:
       type: pages
     values:
       layout: single
-      classes: wide
   # _research
   - scope:
       path: "_research"
       type: pages
     values:
       layout: single
-      classes: wide
+      sidebar:
+        nav: "research"
   # _cv
   - scope:
       path: "_cv"
       type: pages
     values:
       layout: splash
-      classes: wide
