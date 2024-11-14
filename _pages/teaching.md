@@ -11,6 +11,8 @@ permalink: /teaching/
 
 ### Teaching Assistant
 
+- Economics of Crime (2024)
+- Intermediate Microeconomic Theory (2024)
 - Economics of Strategy (2023)
 - Econometrics (2022)
 - Public Sector Economics (2021)
