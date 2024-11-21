@@ -191,13 +191,13 @@
       color: $masthead-link-color-hover;
     }
 
-    &.site-logo {
-      margin-left: 0;
-      margin-right: 0.5rem;
+ &.site-logo {
+      margin-inline-start: 0;
+      margin-inline-end: 0.5rem;
     }
 
     &.site-title {
-      margin-left: 0;
+      margin-inline-start: 0;
     }
   }
 
