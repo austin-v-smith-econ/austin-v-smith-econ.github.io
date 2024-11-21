@@ -361,8 +361,8 @@
       transition: 0.2s ease-out;
       cursor: pointer;
 
-      &:before,
-      &:after {
+      &::before,
+      &::after {
         content: "";
         position: absolute;
         right: 1em;
