@@ -64,9 +64,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : " "
   links:
-    - label: "austinvsmith@arizona.edu"
+    - label: "austinvsmith.econ@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:austinvsmith@arizona.edu"
+      url: "mailto:austinvsmith.econ@gmail.com"
 
 defaults:
   # _pages
