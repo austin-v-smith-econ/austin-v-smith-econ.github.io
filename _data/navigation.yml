@@ -15,3 +15,5 @@ research:
     children:
       - title: "Working Papers"
         url: /research/#working-papers
+      - title: "Works in Progress"
+        url: /research/#works-in-progress
