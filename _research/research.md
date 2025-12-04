@@ -17,4 +17,6 @@ permalink: /research/
 Teamwork in Policing (Draft available upon request)<br>
 <span style="font-size:0.75em"> I estimate the effects of teamwork in 911 call responses. In order to circumvent the endogenous assignment of more officers to calls with greater unobserved severity, I leverage exogenous variation in the number of double-manned patrol vehicles across shifts. I find that police are more likely to use their enforcement powers when dispatched in teams: an additional officer being dispatched to a call increases the likelihood of an arrest being made by 24% relative to the mean. I interpret these findings as evidence that officer teams reduce the costs of enforcement. Indeed, in the rare case where officers experience suspect resistance, the presence of more officers is associated with a lower likelihood of an officer being sent to the hospital. The results suggest that policing strategies which maximize patrol area to increase deterrence come at the cost of lower incapacitation capabilities.  </span>
 
+Estimating Police Value-Added Impacts on Criminal Investigations, Clearance Rates, Revictimization, and Recidivism, with Matthew B. Ross and CarlyWill Sloan <br>
+<span>
 
