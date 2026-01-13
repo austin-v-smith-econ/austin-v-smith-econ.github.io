@@ -5,7 +5,7 @@ permalink: /research/
 
 # Working Papers
 
-[The Boss in Blue: Supervisors and Police Behavior](../assets/pdfs/Boss_in_Blue_AVSmith.pdf) <br>
+[The Boss in Blue: Supervisors and Police Behavior](../assets/pdfs/Boss_in_Blue_AVSmith.pdf) (R&R at AEJ: Policy)<br>
 <span style="font-size:0.75em"> [[Supplementary Appendix](../assets/pdfs/Supplementary_Appendix_Boss_in_Blue.pdf)] </span><br>
 <span style="font-size:0.75em">  We know little about the influence of supervisors in high-stakes, discretionary settings such as policing. Leveraging frequent rotations of officers between supervisors—sergeants—I estimate causal effects of individual sergeants on arrests. Moving an officer from a 10th to 90th percentile sergeant increases monthly arrests by 42%. Sergeant effects on serious and low-level arrests are weakly correlated and reflect distinct officer behaviors. Sergeants who drive low-level arrests do so mainly via discretionary drug enforcement, disproportionately affecting Black civilians and increasing use of force. These findings position supervisors as critical actors in shaping police behavior and offer new insights for reform. </span>
 
