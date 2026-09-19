@@ -19,6 +19,7 @@ permalink: /research/
 Estimating Police Value-Added Impacts on Criminal Investigations, Clearance Rates, Revictimization, and Recidivism<br>
 <span> (with Matthew B. Ross and CarlyWill Sloan) </span><br>
 <span>
+
 The Effects of 911 Response Size (Draft available upon request)<br>
 
 
