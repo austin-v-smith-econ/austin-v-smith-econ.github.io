@@ -14,12 +14,17 @@ permalink: /research/
 <span style="font-size:0.75em"> Police officers make high-stakes decisions under uncertainty, often acting on information from 911 call takers. Using quasi-random assignment of calls to call-takers in Dallas, I show that variation in call takers’ risk assessments significantly affects arrests. Calls upgraded to priority increase arrests by 53% relative to the mean, primarily for low-level offenses. These effects are partly driven by officers using call information to inform evaluations of suspect culpability, with stronger responses among inexperienced officers or in racially discordant neighborhoods. The results highlight the critical role of call takers and officer information processing in shaping enforcement.
  </span>
 
+ The Effects of 911 Response Size (Draft available upon request)<br>
+ <br>
+<span style="font-size:0.75em"> I estimate the effects of allocating more officers to 911 calls. In order to circumvent the endogenous assignment of more officers to calls with greater unobserved severity, I leverage exogenous variation in the amount of double-crewed patrol vehicles across shifts. I find that police are more likely to use their enforcement powers when additional officers are dispatched: an additional officer being dispatched to a call increases the likelihood of an arrest being made by 24\% relative to the mean. I provide suggestive evidence that officers are more effective at incapacitating criminals when response sizes are larger. My results highlight an understudied feature of patrol allocation that police departments ought to consider when making deployment decisions.
+ </span>
+
 # Works in Progress
 
 Estimating Police Value-Added Impacts on Criminal Investigations, Clearance Rates, Revictimization, and Recidivism<br>
 <span> (with Matthew B. Ross and CarlyWill Sloan) </span><br>
 <span>
 
-The Effects of 911 Response Size (Draft available upon request)<br>
+
 
 
