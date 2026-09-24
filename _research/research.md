@@ -15,7 +15,6 @@ permalink: /research/
  </span>
 
  The Effects of 911 Response Size (Draft available upon request)<br>
- <br>
 <span style="font-size:0.75em"> I estimate the effects of allocating more officers to 911 calls. In order to circumvent the endogenous assignment of more officers to calls with greater unobserved severity, I leverage exogenous variation in the amount of double-crewed patrol vehicles across shifts. I find that police are more likely to use their enforcement powers when additional officers are dispatched: an additional officer being dispatched to a call increases the likelihood of an arrest being made by 24\% relative to the mean. I provide suggestive evidence that officers are more effective at incapacitating criminals when response sizes are larger. My results highlight an understudied feature of patrol allocation that police departments ought to consider when making deployment decisions.
  </span>
 
