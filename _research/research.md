@@ -19,9 +19,11 @@ permalink: /research/
 
 # Works in Progress
 
-Estimating Police Value-Added Impacts on Criminal Investigations, Clearance Rates, Revictimization, and Recidivism<br>
-<span> (with Matthew B. Ross and CarlyWill Sloan) </span><br>
+Detective Quality and Investigative Output (with Matthew B. Ross and CarlyWill Sloan) <br>
 <span>
+Clearance and Crime Prevention (with Catarina Meneses, Matthew B. Ross, and CarlyWill Sloan) <br>
+<span>
+Immigration Enforcement Partnerships and Local Police Activity (with Spencer Cooper) <br>
 
 
 
